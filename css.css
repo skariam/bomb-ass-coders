@@ -1,5 +1,6 @@
 body {
   background-color: rgba(252,260,227,1);
+<<<<<<< HEAD
 }
 
 h1 {
@@ -9,4 +10,8 @@ h1 {
   background-color: black;
   padding: 20px;
 
+=======
+  text-align: center;
+  font-family: Helvetica;
+>>>>>>> 9750610c78d116dfaa06c084651f3c11665f7d35
 }

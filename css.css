@@ -1,26 +1,16 @@
 body {
   background-color: rgba(252,260,227,1);
-<<<<<<< HEAD
 text-align: center;
 font-family: Helvetica;
-=======
-  text-align: center;
->>>>>>> 38d9099f5ac7483ae5f49df082d50fd7b443008e
 }
 
 h1 {
   color: white;
-  font-size: 25px;
+  font-size: 50px;
   font-family: 'cambria';
   background-color: rgba(0,0,0,0.5);
   padding: 20px;
-<<<<<<< HEAD
 }
 
   text-align: center;
   font-family: Helvetica;
-=======
-  text-align: center;
-  font-family: Helvetica;
-}
->>>>>>> 38d9099f5ac7483ae5f49df082d50fd7b443008e
